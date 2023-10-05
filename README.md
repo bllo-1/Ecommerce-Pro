@@ -1,4 +1,4 @@
-# Bloo Ecommerce
+# Bllo Ecommerce
 
 A Django-based e-commerce project.
 
