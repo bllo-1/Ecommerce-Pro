@@ -47,3 +47,13 @@ If you want to contribute to this project, feel free to submit issues or pull re
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<h2>Screenshot of the projects 📸</h2>
+<div style="text-align: center;">
+<h1>Home Page : 🏡</h1>
+<img src="./static/images/homeEco.png">
+<h1>Card Page : 🎁</h1>
+<img src="./static/images/cardEco.png">
+<h1>Checkout Page :</h1> 
+<img src="./static/images/checkEco.png">
+</div>
